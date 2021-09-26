@@ -1,0 +1,30 @@
+
+div{
+  text-align: center;
+}
+.logo{
+  display:inline-block;
+  font-size: 32px;
+}
+.pic{
+  display:inline-block;
+}
+header{
+  display: inline-block;
+}
+li{
+  display:inline-block;
+  width: 30%;
+  background:rgb(251, 161, 251);
+  text-align: center;
+}
+.coll{
+  display:inline-block;
+  width: 30%;
+  vertical-align: top;
+  text-align: center;
+}
+footer{
+  text-align: center;
+  background:rgb(251, 161, 251);
+}
