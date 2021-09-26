@@ -1,0 +1,11 @@
+div{
+display: inline-block;
+position: relative;
+left:35%;
+  text-align:center;
+  background:rgb(251, 161, 251);
+  border: 3px solid pink;
+}
+body{
+  background:rgb(248, 221, 248);
+}
