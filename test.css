@@ -1,0 +1,17 @@
+table{
+  position:relative;
+left: 15%;
+    text-align:center;
+    background:rgb(251, 161, 251);
+    border: 3px solid pink;
+  }
+  body{
+    background:rgb(248, 239, 248);
+    position:relative;
+    left:40%;
+  }
+  button{
+    left:17%;
+    position: relative;
+  }
+ 
